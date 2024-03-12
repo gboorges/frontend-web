@@ -1,0 +1,29 @@
+/* CSS HEX 
+--dark-green: #0d2e1eff;  // preto
+--dartmouth-green: #006a2bff;  // verde
+--davys-gray: #595959ff;  // cinza escuro
+--dim-gray: #707270ff;  // cinza claro
+--mint-cream: #eaf3f1ff;  // branco*/
+
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header {
+    height: 70px;
+    background: 000000;
+    padding: 0 16px;
+    display: flex;
+    align-items: center;
+}
+
+.logotipo{
+    display: flex;
+    align-items: center;
+}
+
+.logotipo img{
+    
+}
